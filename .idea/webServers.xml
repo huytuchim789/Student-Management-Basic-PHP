@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c48a7f1c-fcb5-42a5-bb23-e27bc79c1e8a" name="XAAMP" url="http://localhost:63342/PHP_Student_MySQL">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\PHP_Student_MySQL" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
